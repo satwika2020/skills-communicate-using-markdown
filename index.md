@@ -15,3 +15,6 @@ b=10
 c=a+b
 c=15
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
